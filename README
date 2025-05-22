@@ -1,0 +1,2 @@
+This is a python script that auto scans the the user's Downloads folder, or any folder really once every 5 minutes for any new changes, and if changes are detected, it sends the SHA256 hash to virustotal to see if it is a threat. This is not meant to be a replacement for AntiVirus programs but it's a fun thing to have around :P 
+
